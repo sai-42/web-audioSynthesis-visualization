@@ -1,0 +1,17 @@
+{
+  "name": "workshop-web-audio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Sabrina Moraru",
+    "url": "https://github.com/sai-42"
+  },
+  "devDependencies": {
+    "live-server": "^1.1.0"
+  },
+  "scripts": {
+    "start": "live-server src"
+  }
+}
